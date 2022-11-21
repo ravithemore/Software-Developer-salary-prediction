@@ -48,4 +48,8 @@ Then, a virtual environment to play with the data....
 $ ipython kernel install --user --name=ml
 ```
 
+## The Live site is at:
+http://localhost:8501/
+http://192.168.1.8:8501
+
 If you like the project . Give it a star.
