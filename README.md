@@ -1,4 +1,4 @@
-# Software-Engineers-salary-prediction💸
+# Software-Developer-salary-prediction💸
 ![](https://github.com/ravithemore/Software-Engineers-salary-prediction/blob/main/assets/Screenshot%202022-11-21%20121513.png)
 
 ## It's an Application which predicts the salary of a software engineers based on the data from stackoverflow . It is trained to predict it from the data using Machine Learning. It's App is designed using python with simple and basic gui.
