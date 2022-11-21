@@ -3,6 +3,9 @@
 
 ## It's an Application which predicts the salary of a software engineers based on the data from stackoverflow . It is trained to predict it from the data using Machine Learning. It's App is designed using python with simple and basic gui.
 
+Dataset available at :
+[Salary Dataset](https://insights.stackoverflow.com/survey)
+
 ### Libraries used:
 - [Matplotlib](https://matplotlib.org/)
 - [Scikit-Learn](https://scikit-learn.org/stable/)
