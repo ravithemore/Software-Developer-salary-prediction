@@ -52,4 +52,4 @@ $ ipython kernel install --user --name=ml
 - http://localhost:8501/
 - http://192.168.1.8:8501
 
-If you like the project . Give it a star⭐  ```FORK```
+If you like the project . Give it a star  ⭐ and   ```FORK```
