@@ -1,6 +1,8 @@
 # Software-Developer-salary-prediction💸
 ![](https://github.com/ravithemore/Software-Engineers-salary-prediction/blob/main/assets/Screenshot%202022-11-21%20121513.png)
 
+## The live site is at   [SOFTWARE DEVELOPER SALARY PREDICTION APP](https://isaakkarag-streamlit-first-app-app-4-d3rel3.streamlit.app/)
+
 ## It's an Application which predicts the salary of a software engineers based on the data from stackoverflow . It is trained to predict it from the data using Machine Learning. It's App is designed using python with simple and basic gui.
 
 Dataset available at :
@@ -51,8 +53,5 @@ Then, a virtual environment to play with the data....
 $ ipython kernel install --user --name=ml
 ```
 
-## The Live site is at:
-- http://localhost:8501/
-- http://192.168.1.8:8501
 
 If you like the project . Give it a star  ⭐ and   ```[FORK]```
